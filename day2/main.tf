@@ -16,6 +16,7 @@ resource "aws_instance" "us1" {
     tags = {
         Name = "MyFirstInstanceUs"
     }
+    
   
 }
 
