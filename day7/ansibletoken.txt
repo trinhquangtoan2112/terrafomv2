@@ -1,0 +1,13 @@
+You may need to set the following environment variables:
+
+    $ export VAULT_ADDR='http://0.0.0.0:8200'
+
+The unseal key and root token are displayed below in case you want to
+seal/unseal the Vault or re-authenticate.
+
+Unseal Key: RWmmowd7w8gJr/r+2aOHzVyzSaX3/VIbbLnnYCY1tJ0=
+Root Token: hvs.qUQD9747ISF3eRkX4l8fDVUY
+
+
+secret_id = 03ea130b-656b-cd7f-50f5-011fe90c2aed
+role_id = b35f2d3b-3cfc-c7bb-6211-8b36c64d4d8f
